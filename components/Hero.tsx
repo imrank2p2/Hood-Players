@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { useEffect, useState } from "react";
 import ComicBadge from "@/components/ui/ComicBadge";
 import ComicButton from "@/components/ui/ComicButton";
 import ComicCard from "@/components/ui/ComicCard";
