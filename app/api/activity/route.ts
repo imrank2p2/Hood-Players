@@ -36,7 +36,7 @@ export async function GET() {
         const token = String(item.token?.address_hash ?? item.token?.address ?? "").toLowerCase();
         return token === CONTRACT;
       })
-      .slice(0, 30)
+      .slice(0, 50)
       .map((item: any) => {
         const from = String(item.from?.hash ?? item.from_address_hash ?? ZERO).toLowerCase();
         const to = String(item.to?.hash ?? item.to_address_hash ?? "").toLowerCase();

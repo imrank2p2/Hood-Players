@@ -73,7 +73,7 @@ export default function LiveActivity() {
           (a, b) =>
             new Date(b.timestamp ?? 0).getTime() - new Date(a.timestamp ?? 0).getTime()
         )
-        .slice(0, 12),
+        .slice(0, 50),
     [events]
   );
 

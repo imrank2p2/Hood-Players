@@ -25,13 +25,13 @@ export default function MintPanel() {
       <div className="mt-6">
         <a href={OPENSEA_MINT_URL} target="_blank" rel="noopener noreferrer" className="block">
           <ComicButton variant="pink" className="w-full">
-            Mint Free on OpenSea
+            Mint on OpenSea • 0.0002 ETH
           </ComicButton>
         </a>
       </div>
 
       <p className="mt-4 text-center text-[10px] font-black uppercase leading-4 text-gray-500">
-        No ETH mint price. OpenSea may still charge applicable network or marketplace fees.
+        Mint price: 0.0002 ETH. OpenSea may still charge applicable network or marketplace fees.
       </p>
     </ComicCard>
   );
