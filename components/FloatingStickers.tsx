@@ -25,7 +25,7 @@ export default function FloatingStickers() {
 
       <div className="pointer-events-none absolute bottom-12 right-24 hidden xl:block">
         <ComicSticker color="blue" rotate="rotate-12">
-          🤑 FREE MINT
+          🤑 0.0002 ETH MINT
         </ComicSticker>
       </div>
     </>

@@ -15,7 +15,7 @@ const questions = [
   },
   {
     q: "WHAT IS THE MINT PRICE?",
-    a: "The current site UI lists the mint price as FREE. The live mint contract should be connected before launch.",
+    a: "The current site UI lists the mint price as 0.0002 ETH. The live mint contract should be connected before launch.",
   },
   {
     q: "WHERE CAN I MINT?",

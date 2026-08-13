@@ -18,7 +18,7 @@ export default function MintPanel() {
       </div>
 
       <div className="mt-6 border-2 border-black bg-[#F8D43A] p-4 text-center">
-        <p className="text-3xl font-black uppercase">FREE MINT</p>
+        <p className="text-3xl font-black uppercase">0.0002 ETH MINT</p>
         <p className="mt-1 text-xs font-bold uppercase">Minting takes place on OpenSea</p>
       </div>
 

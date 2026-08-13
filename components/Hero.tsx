@@ -104,7 +104,7 @@ export default function Hero() {
             </div>
 
             <div className="absolute right-0 top-2 rotate-6 border-4 border-black bg-pink-500 px-3 py-2 text-xs font-black uppercase text-white shadow-[5px_5px_0_#000] sm:right-3 sm:px-4 sm:text-sm">
-              FREE
+              0.0002 ETH
             </div>
 
             <div className="absolute bottom-2 left-3 -rotate-3 border-4 border-black bg-white px-3 py-2 text-xs font-black uppercase shadow-[5px_5px_0_#000] sm:left-6 sm:px-5 sm:text-sm">
@@ -122,7 +122,7 @@ export default function Hero() {
           </div>
 
           <div className="bg-sky-300 p-4 text-center sm:p-6">
-            <h2 className="text-3xl font-black sm:text-4xl">FREE</h2>
+            <h2 className="text-3xl font-black sm:text-4xl">0.0002 ETH</h2>
             <p className="mt-1 text-[10px] font-black uppercase sm:text-xs">
               Mint
             </p>

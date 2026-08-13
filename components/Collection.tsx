@@ -49,7 +49,7 @@ export default function Collection() {
                   color="green"
                   className="absolute right-3 top-3 z-10 scale-75 origin-top-right sm:right-4 sm:top-4"
                 >
-                  {index === 3 ? "1/1" : "FREE"}
+                  {index === 3 ? "1/1" : "0.0002 ETH"}
                 </ComicBadge>
 
                 <div className="overflow-hidden border-2 border-black bg-lime-300">

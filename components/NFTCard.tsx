@@ -110,7 +110,7 @@ export default function NFTCard() {
               </p>
 
               <h3 className="mt-2 text-xl font-bold">
-                FREE
+                0.0002 ETH
               </h3>
 
             </div>

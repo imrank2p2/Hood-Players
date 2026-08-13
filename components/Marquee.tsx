@@ -1,7 +1,7 @@
 "use client";
 
 const items = [
-  "FREE MINT",
+  "0.0002 ETH MINT",
   "2600 NFTs",
   "PIXEL ART",
   "GENESIS COLLECTION",
