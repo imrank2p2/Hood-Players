@@ -10,6 +10,7 @@ const links = [
   { name: "Gallery", href: "#gallery" },
   { name: "Roadmap", href: "#roadmap" },
   { name: "FAQ", href: "#faq" },
+  { name: "Future", href: "/future" },
 ];
 
 export default function Navbar() {

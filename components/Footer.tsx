@@ -5,6 +5,7 @@ const links = [
   ["Gallery", "#gallery"],
   ["Roadmap", "#roadmap"],
   ["FAQ", "#faq"],
+  ["Future", "/future"],
 ];
 
 export default function Footer() {
